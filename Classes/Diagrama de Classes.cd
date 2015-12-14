@@ -1,0 +1,104 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Classes.Solicitacao">
+    <Position X="5.25" Y="3.5" Width="1.75" />
+    <AssociationLine Name="Contas" Type="Classes.Contas" FixedFromPoint="true" FixedToPoint="true">
+      <Path>
+        <Point X="5.469" Y="3.5" />
+        <Point X="5.469" Y="2.32" />
+        <Point X="4.75" Y="2.32" />
+      </Path>
+    </AssociationLine>
+    <TypeIdentifier>
+      <HashCode>icAEYAJAACIEACIERAJIIQHAQCEQAAAAAQAgAiABwkM=</HashCode>
+      <FileName>Solicitacao.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Contas" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Classes.Contas">
+    <Position X="3.25" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAIIhAQADiAAAAAABBgABAAACAAAAiBAAAGAAUBCAE=</HashCode>
+      <FileName>Contas.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Funcionario">
+    <Position X="0.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgAIIAAAACgAAAAAABAgBABACAgAAAABAAACABEACAE=</HashCode>
+      <FileName>Funcionario.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Confirmacao">
+    <Position X="8.25" Y="3.5" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AIIEAAAAAAACYAAAABIEKCAAAAkBAAQAAAgAAAgAAAA=</HashCode>
+      <FileName>Confirmacao.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Relatorio_final_semana" />
+      <Property Name="Solicitado_confirmacao" />
+      <Property Name="Autorizado_confirmacao" />
+      <Property Name="Confirmado_cliente" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Classes.Solicitacao_aceita">
+    <Position X="8.5" Y="8.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAgEAAAAAAAAAAAAAABIAAAAAAAAAAAAACAAAAAAAAA=</HashCode>
+      <FileName>Solicitacao_aceita.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Confirmacao" />
+      <Property Name="Solicitacao" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Classes.Solicitacao_negada">
+    <Position X="2.5" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAEAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Solicitacao_negada.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Property Name="Solicitacao" />
+    </ShowAsAssociation>
+  </Class>
+  <Class Name="Classes.Relatorio_final_semana">
+    <Position X="10.5" Y="0.5" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAAAAIIAAAAAAAAAAAACAAAAAACA=</HashCode>
+      <FileName>Relatorio_final_semana.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Solicitado_confirmacao">
+    <Position X="12" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAAAAAAAIAAAAAAAAEAAAAAAEAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Solicitado_confirmacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Autorizado_confirmacao">
+    <Position X="16.5" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAIAAAAgACAAAAAAIAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Autorizado_confirmacao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Confirmado_cliente">
+    <Position X="14.25" Y="5.75" Width="2" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAIAAAAAAAAAAAAAEAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Confirmado_cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Classes.Conexao">
+    <Position X="1" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAABAAAEAA=</HashCode>
+      <FileName>Conexao.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

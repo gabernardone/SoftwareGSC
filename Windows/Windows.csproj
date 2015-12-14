@@ -1,0 +1,502 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="13.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <GenerateResourceNeverLockTypeAssemblies>true</GenerateResourceNeverLockTypeAssemblies>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{DA54D6CE-1B1C-458F-AFA4-362FBE0BEC5D}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Windows</RootNamespace>
+    <AssemblyName>Windows</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>true</IsWebBootstrapper>
+    <PublishUrl>C:\wamp\www\Update\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Web</InstallFrom>
+    <UpdateEnabled>true</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <InstallUrl>http://localhost/Update/</InstallUrl>
+    <ApplicationRevision>1</ApplicationRevision>
+    <ApplicationVersion>3.5.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <CodeAnalysisRuleSet>MinimumRecommendedRules.ruleset</CodeAnalysisRuleSet>
+    <UseVSHostingProcess>true</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>iconfinal.ico</ApplicationIcon>
+  </PropertyGroup>
+  <PropertyGroup>
+    <NoWin32Manifest>true</NoWin32Manifest>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestCertificateThumbprint>4082604526F114DDC1D34F2A5674EB108969C842</ManifestCertificateThumbprint>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ManifestKeyFile>Windows_ChaveTemporária.pfx</ManifestKeyFile>
+  </PropertyGroup>
+  <PropertyGroup>
+    <GenerateManifests>true</GenerateManifests>
+  </PropertyGroup>
+  <PropertyGroup>
+    <SignManifests>false</SignManifests>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="Correios.Net">
+      <HintPath>..\..\Correios.Net-master\product\Correios.Net.dll</HintPath>
+    </Reference>
+    <Reference Include="DevExpress.Charts.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Data.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Office.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Printing.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.RichEdit.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.SpellChecker.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Spreadsheet.v15.1.Core, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.Utils.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.Utils.v15.1.UI, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraBars.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraCharts.v15.1.Wizard, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraCharts.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraEditors.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraLayout.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraNavBar.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraPrinting.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraRichEdit.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraSpellChecker.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraSpreadsheet.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraTreeList.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" />
+    <Reference Include="DevExpress.XtraVerticalGrid.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="DevExpress.XtraWizard.v15.1, Version=15.1.5.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.QualityTools.Testing.Fakes, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks, Version=12.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a, processorArchitecture=MSIL" />
+    <Reference Include="Microsoft.VisualBasic.PowerPacks.12.0.0.0.Fakes">
+      <HintPath>FakesAssemblies\Microsoft.VisualBasic.PowerPacks.12.0.0.0.Fakes.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Design" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Windows.Forms.Ribbon35">
+      <HintPath>..\..\..\Documents\System.Windows.Forms.Ribbon35.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="TabSystem, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\..\TabSystem.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Esqueceu_senha.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Esqueceu_senha.Designer.cs">
+      <DependentUpon>Esqueceu_senha.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Sobre o Software.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Sobre o Software.Designer.cs">
+      <DependentUpon>Sobre o Software.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SplashScreen1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SplashScreen1.Designer.cs">
+      <DependentUpon>SplashScreen1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TelaPrincipal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TelaPrincipal.Designer.cs">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Constrols\UserControl1.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Constrols\UserControl1.Designer.cs">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Constrols\ucDetalhe_consulta.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Constrols\ucDetalhe_consulta.Designer.cs">
+      <DependentUpon>ucDetalhe_consulta.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Constrols\ucNovaSolicitacao.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Constrols\ucNovaSolicitacao.Designer.cs">
+      <DependentUpon>ucNovaSolicitacao.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Constrols\ucConsultaUsuario.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Constrols\ucConsultaUsuario.Designer.cs">
+      <DependentUpon>ucConsultaUsuario.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Constrols\ucSolicitacoesAprovadas.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Constrols\ucSolicitacoesAprovadas.Designer.cs">
+      <DependentUpon>ucSolicitacoesAprovadas.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Users Constrols\ucAddUser.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Users Constrols\ucAddUser.Designer.cs">
+      <DependentUpon>ucAddUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Tela de Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Tela de Login.Designer.cs">
+      <DependentUpon>Tela de Login.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ucCarregando.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ucCarregando.Designer.cs">
+      <DependentUpon>ucCarregando.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="Esqueceu_senha.resx">
+      <DependentUpon>Esqueceu_senha.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SplashScreen1.resx">
+      <DependentUpon>SplashScreen1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Tela de Login.resx">
+      <DependentUpon>Tela de Login.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Sobre o Software.resx">
+      <DependentUpon>Sobre o Software.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <SubType>Designer</SubType>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TelaPrincipal.resx">
+      <DependentUpon>TelaPrincipal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Constrols\UserControl1.resx">
+      <DependentUpon>UserControl1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Constrols\ucDetalhe_consulta.resx">
+      <DependentUpon>ucDetalhe_consulta.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Constrols\ucNovaSolicitacao.resx">
+      <DependentUpon>ucNovaSolicitacao.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Constrols\ucConsultaUsuario.resx">
+      <DependentUpon>ucConsultaUsuario.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Constrols\ucAddUser.resx">
+      <DependentUpon>ucAddUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Users Constrols\ucSolicitacoesAprovadas.resx">
+      <DependentUpon>ucSolicitacoesAprovadas.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ucCarregando.resx">
+      <DependentUpon>ucCarregando.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config">
+      <SubType>Designer</SubType>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\tracker-do-brasil.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gsc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gsc2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="bin\Debug\Recuperacao_Senha.html" />
+    <None Include="Resources\EmailTemplate.txt" />
+    <None Include="Resources\novasolicitacao.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.5">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4.5 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Classes\Classes.csproj">
+      <Project>{c3f8cdc9-f8d1-4a7e-b9f3-1665e31960e1}</Project>
+      <Name>Classes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\FuncoesDll\FuncoesDll.vbproj">
+      <Project>{69fefebd-6f58-481a-863d-f68050a4b5ef}</Project>
+      <Name>FuncoesDll</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Funções\" />
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Service References\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Capturar.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\registration_registration2-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\remove-01-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\save-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-64.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\search-file-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sem-Título-11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Skeletal-Weave-White-Tileable-pattern-for-website-background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SVG_Utility-03-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\sync_reload_refresh_arrow-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\thin-253_x_remove_delete_close_exit-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\user-male-add-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Users-icon.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\520830-subtract-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\574978-NoEntry-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\574978-NoEntry-128.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\614339-.svg-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\685082-Search-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\699371-icon-24-key-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1412061392_list-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1412061412_list-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_delete_remove_stop-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel_delete_remove_stop-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\cancel-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_employee_badge_identification-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\card_employee_badge_identification-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gplaypattern.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\gplaypattern_%402X.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\grey_new_seo-32-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\hyphen-grey-20.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\l.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\login.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\logogsc.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad-add-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\notepad-edit-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ok_check_yes_tick_accept_success-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\refresh_passwords-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\trash-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_document_remove-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_document_remove-48.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\text_document_remove-321.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\edit_user.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\white-gradient-2.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down-01-16.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\arrow-down-01-161.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Refresh_32x32.png" />
+    <None Include="Resources\search-20.png" />
+    <None Include="Resources\status_online.png" />
+    <None Include="Resources\status_busy1.png" />
+    <None Include="Resources\status_busy.png" />
+    <None Include="Resources\website17.png" />
+    <None Include="Resources\NewContact_32x32.png" />
+    <None Include="Resources\pngMain-Logo-TVG-red.png" />
+    <None Include="Resources\logo2.png" />
+    <None Include="Resources\Save_32x32.png" />
+    <None Include="Resources\logo.png" />
+    <None Include="Resources\ListBullets_32x32.png" />
+    <None Include="Resources\Add_32x32.png" />
+    <None Include="bin\Debug\LoadingBig.gif" />
+    <None Include="Resources\Delete_32x32.png" />
+    <None Include="Resources\Info_32x32.png" />
+    <Content Include="iconfinal.ico" />
+    <None Include="Resources\ListBullets_32x321.png" />
+    <None Include="Resources\Apply_32x32.png" />
+    <None Include="Resources\Circle_Yellow.png" />
+    <None Include="Resources\logobig.png" />
+    <None Include="Resources\Close_16x16.png" />
+    <None Include="Resources\Close_32x32.png" />
+    <None Include="Resources\1426032322_basics-22-128.png" />
+    <None Include="Resources\1426032448_basics-22-32.png" />
+    <None Include="Resources\1426032489_basics-22-24.png" />
+    <None Include="Resources\logogscTESTE.png" />
+    <None Include="Resources\computers13.png" />
+    <None Include="Resources\Apply_32x321.png" />
+    <None Include="Resources\1428755292_Gnome-Network-Wired-32.png" />
+    <None Include="Resources\Edit_32x32.png" />
+    <Content Include="Resources\Ok.png" />
+    <Content Include="Resources\Error.png" />
+    <Content Include="Resources\LoadingBig.gif" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,699 @@
+C:\Users\'-Gabriel.S\Desktop\Software de GSC\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC\Classes\obj\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\bin\Debug\Classes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\bin\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 24092014 v1.2\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.4\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 25092014 v1.5\Software de GSC 25092014 v1.3\Software de GSC 23092014 v1.1\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.6\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 29092014 v1.7\Classes\obj\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\bin\Debug\Classes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\bin\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\obj\Debug\Classes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\Classes\obj\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\bin\Debug\Classes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\bin\Debug\Classes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\obj\Debug\Classes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 02102014 v1.9\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.5\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6.3\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Classes.dll.CodeAnalysisLog.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\Classes\bin\Debug\Classes.dll.lastcodeanalysissucceeded
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.5\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.6\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.2\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.3\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.pdb
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Classes.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Classes.pdb
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\Classes\obj\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\Classes.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraWizard.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.XtraWizard.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\obj\Debug\Classes.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\Classes\obj\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Classes.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraWizard.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraWizard.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\obj\Debug\Classes.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\obj\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Classes.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Charts.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Data.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Office.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Printing.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.RichEdit.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.UI.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraBars.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraEditors.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraGrid.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraLayout.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraNavBar.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraPrinting.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraRichEdit.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpellChecker.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraTreeList.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraWizard.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Common.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Microsoft.Practices.EnterpriseLibrary.Data.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Microsoft.Practices.ObjectBuilder.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Sparkline.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.SpellChecker.v15.1.Core.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.UI.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Xpo.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.CodeParser.v15.1.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Data.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Office.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Printing.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.RichEdit.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Spreadsheet.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Utils.v15.1.UI.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraBars.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraCharts.v15.1.Wizard.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraEditors.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraGrid.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraLayout.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraNavBar.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraPrinting.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraRichEdit.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpellChecker.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraSpreadsheet.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.XtraWizard.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.SpellChecker.v15.1.Core.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\DevExpress.Xpo.v15.1.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Data.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Office.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Printing.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.RichEdit.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Spreadsheet.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Utils.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Utils.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraBars.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraCharts.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraCharts.v15.1.Wizard.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraEditors.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraLayout.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraNavBar.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraPrinting.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraRichEdit.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraSpellChecker.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraSpreadsheet.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraTreeList.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.XtraWizard.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.DataAccess.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Sparkline.v15.1.Core.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.DataAccess.v15.1.UI.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\de\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\obj\Debug\Classes.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\obj\Debug\Classes.pdb
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\Classes\bin\Debug\Classes.dll.config

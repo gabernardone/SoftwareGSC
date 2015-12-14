@@ -1,0 +1,21 @@
+1.9
+
+- Adicionado consulta de login [30%];
+- Modificada classe de contas;
+- Excluida classe de funcionarios;
+- Banco editado segundo as classes;
+- Adicionada funcao de limpar;
+
+2.0
+
+- Consulta de login [70%]
+- Configurado filtro de busca de login;
+- Adicionada restrição de administrador;
+
+2.6.3
+
+- Terminada Recuperação de senhas;
+
+2.8.1
+
+- Envia email ao solicitar recuperação de senha;

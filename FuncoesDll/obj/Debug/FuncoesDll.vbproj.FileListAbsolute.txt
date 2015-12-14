@@ -1,0 +1,139 @@
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\bin\Debug\LimparCampos.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\bin\Debug\LimparCampos.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\bin\Debug\LimparCampos.xml
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\obj\Debug\LimparCampos.Resources.resources
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\obj\Debug\LimparCampos.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\obj\Debug\LimparCampos.xml
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 29092014 v1.8\LimparCampos\obj\Debug\LimparCampos.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\bin\Debug\Funcoes.dll.CodeAnalysisLog.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\bin\Debug\Funcoes.dll.lastcodeanalysissucceeded
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.4\LimparCampos\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\bin\Debug\Funcoes.dll.CodeAnalysisLog.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.6\LimparCampos\bin\Debug\Funcoes.dll.lastcodeanalysissucceeded
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\bin\Debug\Funcoes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\bin\Debug\Funcoes.pdb
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\bin\Debug\Funcoes.xml
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\obj\Debug\Funcoes.Resources.resources
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\obj\Debug\Funcoes.dll
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\obj\Debug\Funcoes.xml
+F:\Documentos\Projetos\C#\Software de GSC\Software de GSC 03102014 v2.6.2\LimparCampos\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.1 [retificado]\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\bin\Debug\Funcoes.dll.CodeAnalysisLog.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.2\FuncoesDll\bin\Debug\Funcoes.dll.lastcodeanalysissucceeded
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.3\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\obj\Debug\FuncoesDll.vbprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v2.8.9\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\obj\Debug\FuncoesDll.vbprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.0\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\FuncoesDll.vbprojResolveAssemblyReference.cache
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.4Beta - Copia\FuncoesDll\obj\Debug\Funcoes.pdb
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\bin\Debug\Funcoes.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\bin\Debug\Funcoes.pdb
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\bin\Debug\Funcoes.xml
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.dll
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.xml
+D:\Users\'-Gabriel.S\Desktop\ARQUIVOS GSC\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\'-Gabriel.S\Desktop\Software de GSC 03102014 v3.5BETA\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\obj\Debug\FuncoesDll.vbprojResolveAssemblyReference.cache
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\gabriel.bernardone\Desktop\Software de GSC - 14062015 - 3.5.1 (1)\Software de GSC - 14062015 - 3.5\FuncoesDll\obj\Debug\Funcoes.pdb
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\bin\Debug\Funcoes.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\bin\Debug\Funcoes.pdb
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\bin\Debug\Funcoes.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\obj\Debug\FuncoesDll.vbprojResolveAssemblyReference.cache
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\obj\Debug\Funcoes.Resources.resources
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\obj\Debug\Funcoes.dll
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\obj\Debug\Funcoes.xml
+C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\Software de GSC - 13082015- 3.5.2\FuncoesDll\obj\Debug\Funcoes.pdb
