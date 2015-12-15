@@ -14,6 +14,7 @@ namespace Windows
     public partial class TelaPrincipal : Form
     {
         public TabSystem.System tabsystem = new TabSystem.System();
+        Classes.Contas conta = new Classes.Contas();
 
 
         public TelaPrincipal()
@@ -28,9 +29,6 @@ namespace Windows
             tabsystem.btnClose = btnClose;
             tabsystem.tabControl_Receptor = tabPrincipal;
 
-
-            //Instanciando 'conta' para pegar os dados
-            Classes.Contas conta = new Classes.Contas();
             conta.Usuario = frmLogin.tspUsuario_logado;
             conta.getContaAtributo(); //Pega os atributos da conta logada
 
@@ -110,17 +108,18 @@ namespace Windows
         private void TelaPrincipal_Shown(object sender, EventArgs e)
         {
 
-            Classes.Contas conta = new Classes.Contas() { Usuario = frmLogin.tspUsuario_logado };
-
-
             //Se for administrador aparece a aba admin
             if (conta.Administrador)
             {
                 if (tabControl1.TabPages[0].Text != "Administrador")
+                {
                     tabControl1.TabPages.Insert(0, tbpAdministrador);
+                }                    
             }
             else
+            {
                 tabControl1.TabPages.RemoveAt(0);
+            }               
         }
 
         private void toolStripButton4_Click(object sender, EventArgs e)

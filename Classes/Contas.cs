@@ -19,6 +19,7 @@ namespace Classes
         public string Usuario { get; set; }
 
         public bool Administrador { get; set; }
+
         public string Cargo { get; set; }
 
         public string Nome { get; set; }
@@ -120,7 +121,7 @@ namespace Classes
             return (bool)Connection.QueryScalar(Query);
         }
 
-        public bool addConta(/*string usuario, string senha, bool adm, string email, string cargo, string setor, string nome*/)
+        public bool addConta()
         {
             
             try
