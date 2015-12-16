@@ -210,6 +210,7 @@
     <EmbeddedResource Include="Esqueceu_senha.resx">
       <DependentUpon>Esqueceu_senha.cs</DependentUpon>
     </EmbeddedResource>
+    <EmbeddedResource Include="Properties\licenses.licx" />
     <EmbeddedResource Include="SplashScreen1.resx">
       <DependentUpon>SplashScreen1.cs</DependentUpon>
     </EmbeddedResource>
@@ -487,9 +488,9 @@
     <None Include="Resources\Apply_32x321.png" />
     <None Include="Resources\1428755292_Gnome-Network-Wired-32.png" />
     <None Include="Resources\Edit_32x32.png" />
+    <Content Include="Resources\LoadingBig.gif" />
     <Content Include="Resources\Ok.png" />
     <Content Include="Resources\Error.png" />
-    <Content Include="Resources\LoadingBig.gif" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

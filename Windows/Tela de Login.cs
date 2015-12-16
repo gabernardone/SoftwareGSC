@@ -34,6 +34,7 @@ namespace Windows
             }
             catch (System.Net.Sockets.SocketException ex)
             {
+                MessageBox.Show(ex.Message);
                 return false;
             }
         }

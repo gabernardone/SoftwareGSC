@@ -50,7 +50,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>mV2hKwbxttj6aqyBlbyWEfSbPqhNA4eoR2lHl7pLYqU=</dsig:DigestValue>
+        <dsig:DigestValue>7gXgLK1tzYMVzGOQzrgfGBblFx7Dpf9MH+e/5ecx0Uw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1610,7 +1610,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>YUV4Ga1Hzf5Fzu2FIpRbuHVKVB6x/9YqomEOFYUxaCk=</dsig:DigestValue>
+        <dsig:DigestValue>4W3pp/uMN1FYFHfHxJIRT/glGv32EHYKybtVnkUuTgA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1711,14 +1711,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows.exe" size="1034752">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows.exe" size="1059840">
       <assemblyIdentity name="Windows" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>8ulXtNw9kq1pXTSbiuIbPKb+eOfJM94nLhEPLVOcw/M=</dsig:DigestValue>
+        <dsig:DigestValue>7AapQ339VqFt/k05RUpqk8l4vzhFekSJjJfFnMyl57o=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -1740,13 +1740,13 @@
       <dsig:DigestValue>913LiiwvNzz3AST+XEQgH2rVysXUT8S81t6hCPrYqzw=</dsig:DigestValue>
     </hash>
   </file>
-  <file name="Resources\LoadingBig.gif" size="29110">
+  <file name="Resources\LoadingBig.gif" size="53952">
     <hash>
       <dsig:Transforms>
         <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
       </dsig:Transforms>
       <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-      <dsig:DigestValue>HCUHnDYcS+/qhYXhOMiBMSR21YMuSwleP85kl++lhVs=</dsig:DigestValue>
+      <dsig:DigestValue>idMQZH67rPwdwGQlY5rRbVBRXLoF0/PB7NDy8UIKPYI=</dsig:DigestValue>
     </hash>
   </file>
   <file name="Resources\Ok.png" size="709">

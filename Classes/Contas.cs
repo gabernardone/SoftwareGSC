@@ -5,7 +5,7 @@ using System.Linq;
 using System.Text;
 using System.Data.SqlTypes;
 using System.Windows.Forms;
-
+using System.Data;
 
 namespace Classes
 {
@@ -27,6 +27,8 @@ namespace Classes
         public string Setor { get; set; }
 
         public string Email { get; set; }
+
+        
 
 
 
@@ -133,7 +135,7 @@ namespace Classes
                     adm = 1;
 
                 var query = new StringBuilder();
-                query.Append("INSERT INTO GSCUsuarios (usuario,senha,administrador,email,cargo,setor,nome");
+                query.Append("INSERT INTO GSCUsuarios (usuario,senha,administrador,email,cargo,setor,nome)");
                 query.Append("VALUES(@usuario, @senha, @administrador, @email, @cargo, @setor, @nome)"); 
 
                 SqlConnection con = BancoDados.Criarconexao();
@@ -164,22 +166,54 @@ namespace Classes
             }
         }
 
-        public void delConta()
+        public void delConta(string userDelete)
         {
-            string Query; //Cria a variável que vai guardar os comandos
+            var query = "DELETE FROM GSCUsuarios WHERE usuario = @usuario";
 
-            //Comandos
-            Query = "Delete dbo.Login ";
-            Query += "Where usuario = '" + Usuario + "'";
+            SqlConnection con = BancoDados.Criarconexao();
 
+            con.Open();
 
-            Conexao Connection = new Conexao(); //Instancia a classe conexao
-            Connection.QueryNon(Query); //Executa o comando e salva o resultado em 'ret'
+            SqlCommand cmd = new SqlCommand(query, con);
+            cmd.Parameters.AddWithValue("@usuario", userDelete);
+
+            cmd.ExecuteNonQuery();
+
+            cmd.Dispose();
+            con.Close();
+            con.Dispose();
         }
 
         public void setSenha()
         {
         }
+
+
+        public void getAllUsuarios(DataGridView dataGrid)
+        {
+            try {
+                string query = "SELECT nome,usuario,email,administrador FROM GSCUsuarios";
+                SqlConnection con = BancoDados.Criarconexao();
+                SqlDataAdapter dataAdapter = new SqlDataAdapter(query, con);
+
+                SqlCommandBuilder commandBuilder = new SqlCommandBuilder(dataAdapter);
+                DataSet ds = new DataSet();
+                dataAdapter.Fill(ds);
+                dataGrid.ReadOnly = true;
+                dataGrid.DataSource = ds.Tables[0];
+
+                commandBuilder.Dispose();
+                con.Close();
+                con.Dispose();
+
+            }catch(SqlException ex)
+            {
+                MessageBox.Show(ex.Message);
+            }
+
+        }
+
+
 
         public System.Data.DataSet getContas(string atributo, string conteudo)
         {
@@ -197,29 +231,7 @@ namespace Classes
             return Connection.QueryDataset(Query); //Executa o comando e RETORNA
         }
 
-        public System.Data.DataSet listContas()
-        {
-            String Query = "SELECT * FROM dbo.Login"; //Comando
 
-            Conexao Connection = new Conexao(); //Instancia a classe conexao
-            return Connection.QueryDataset(Query); //Executa o comando e salva o resultado em 'ret'
-        }
-
-        public System.Data.DataSet listContasReduzido()
-        {
-            String Query = "SELECT nome,usuario,email FROM dbo.Login"; //Comando
-
-            Conexao Connection = new Conexao(); //Instancia a classe conexao
-            return Connection.QueryDataset(Query); //Executa o comando e salva o resultado em 'ret'
-        }
-
-        private string getAtributoStr(string atributo)
-        {
-            String Query = "SELECT " + atributo + " FROM dbo.Login WHERE usuario = '" + Usuario + "'"; //Comando
-
-            Conexao Connection = new Conexao(); //Instancia a classe conexao
-            return (string)Connection.QueryScalar(Query); //Executa o comando e retorna
-        }
         private int getAtributoInt(string atributo)
         {
             String Query = "SELECT " + atributo + " FROM dbo.Login WHERE usuario = '" + Usuario + "'"; //Comando

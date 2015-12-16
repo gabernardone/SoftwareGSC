@@ -38,6 +38,24 @@ namespace Windows
             tspInformacoes_logado.DropDownItems[1].Text = "Email: " + conta.Email; //Email
         }
 
+        private void TelaPrincipal_Shown(object sender, EventArgs e)
+        {
+
+            //Se for administrador aparece a aba admin
+            if (conta.Administrador)
+            {
+                if (tabControl1.TabPages[0].Text != "Administrador")
+                {
+                    tabControl1.TabPages.Insert(0, tbpAdministrador);
+                }
+            }
+            else
+            {
+                tabControl1.TabPages.RemoveAt(0);
+            }
+        }
+
+
         private void lblData_Click(object sender, EventArgs e)
         {
             lblData_Hora.Text = DateTime.Now.ToString();
@@ -71,11 +89,14 @@ namespace Windows
 
         }
 
-        DateTime data_hora;
+        
         private void timer1_Tick(object sender, EventArgs e)
         {
+            DateTime data_hora;
             data_hora = DateTime.Now;
-            lblData_Hora.Text = "Data: " + data_hora.ToLongDateString() + "           " + "Hora:  " + data_hora.ToLongTimeString();
+            lblData_Hora.Text = string.Format("Data: {0}           Hora:  {1}", 
+                                    data_hora.ToLongDateString(), 
+                                    data_hora.ToLongTimeString());
         }
 
         private void sairToolStripMenuItem_Click(object sender, EventArgs e)
@@ -103,24 +124,7 @@ namespace Windows
             tabsystem.addTab(consulta);
 
         }
-
-
-        private void TelaPrincipal_Shown(object sender, EventArgs e)
-        {
-
-            //Se for administrador aparece a aba admin
-            if (conta.Administrador)
-            {
-                if (tabControl1.TabPages[0].Text != "Administrador")
-                {
-                    tabControl1.TabPages.Insert(0, tbpAdministrador);
-                }                    
-            }
-            else
-            {
-                tabControl1.TabPages.RemoveAt(0);
-            }               
-        }
+   
 
         private void toolStripButton4_Click(object sender, EventArgs e)
         {

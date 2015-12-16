@@ -140,7 +140,6 @@ C:\Users\gabriel.bernardone\Desktop\Projetos\Software de GSC - 13082015 - 3.5.2\
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\bin\Debug\Funcoes.dll
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\bin\Debug\Funcoes.pdb
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\bin\Debug\Funcoes.xml
-C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\obj\Debug\FuncoesDll.vbprojResolveAssemblyReference.cache
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\obj\Debug\Funcoes.Resources.resources
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\obj\Debug\FuncoesDll.vbproj.GenerateResource.Cache
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\FuncoesDll\obj\Debug\Funcoes.dll

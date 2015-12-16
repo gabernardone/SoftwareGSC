@@ -26,8 +26,10 @@ namespace Windows
             Classes.Contas conta = new Classes.Contas();
             cboFiltro.SelectedIndex = -1;
 
-            gridPrincipal.DataSource = conta.listContasReduzido().Tables[0];
-            gridPrincipal.ReadOnly = true; 
+            //gridConsultaUsuario.DataSource = conta.listContasReduzido().Tables[0];
+            //gridConsultaUsuario.ReadOnly = true;
+
+            conta.getAllUsuarios(gridConsultaUsuario);
             configuraDataGridView();
 
 
@@ -42,16 +44,24 @@ namespace Windows
         private void tsbDeletar_Click(object sender, EventArgs e)
         {
 
-            if (MessageBox.Show("Tem certeza que deseja deletar ? " + (string)gridPrincipal.Rows[gridPrincipal.CurrentCell.RowIndex].Cells["nome"].Value, "Atenção", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes)
+                DialogResult dr = MessageBox.Show( string.Format("Tem certeza que deseja deletar ? {0}",
+                (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["nome"].Value),
+                "Atenção", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+
+            if (dr.ToString() == "Yes")
             {
 
                 Classes.Contas conta = new Classes.Contas();
-                conta.Nome = (string)gridPrincipal.Rows[gridPrincipal.CurrentCell.RowIndex].Cells["nome"].Value;
-                conta.Usuario = (string)gridPrincipal.Rows[gridPrincipal.CurrentCell.RowIndex].Cells["usuario"].Value;
-                conta.delConta();
 
-                MessageBox.Show("O Usuário " + (string)gridPrincipal.Rows[gridPrincipal.CurrentCell.RowIndex].Cells["nome"].Value, " foi removido!");
-                gridPrincipal.DataSource = conta.listContasReduzido().Tables[0];
+                string userDeletado = (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["usuario"].Value;
+                string nomeDeletado = (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["nome"].Value;
+
+                conta.delConta(userDeletado);
+
+                MessageBox.Show(string.Format("O Usuário {0} foi removido!", nomeDeletado),"Confirmação de Exclusão");
+
+                conta.getAllUsuarios(gridConsultaUsuario);
+                gridConsultaUsuario.Refresh();
 
             }
         }
@@ -62,11 +72,11 @@ namespace Windows
             switch (cboFiltro.SelectedIndex)
             {
                 case 0:
-                    gridPrincipal.DataSource = conta.getContas("nome", txtBusca.Text).Tables[0];
+                    gridConsultaUsuario.DataSource = conta.getContas("nome", txtBusca.Text).Tables[0];
                     break;
 
                 case 1:
-                    gridPrincipal.DataSource = conta.getContas("usuario", txtBusca.Text).Tables[0];
+                    gridConsultaUsuario.DataSource = conta.getContas("usuario", txtBusca.Text).Tables[0];
                     break;
 
             }
@@ -104,14 +114,16 @@ namespace Windows
         public void configuraDataGridView()
         {
             //Edita nome da coluna
-            gridPrincipal.Columns[0].HeaderText = "Nome";
-            gridPrincipal.Columns[1].HeaderText = "Usuário";
-            gridPrincipal.Columns[2].HeaderText = "Email";
+            gridConsultaUsuario.Columns[0].HeaderText = "Nome";
+            gridConsultaUsuario.Columns[1].HeaderText = "Usuário";
+            gridConsultaUsuario.Columns[2].HeaderText = "Email";
+            gridConsultaUsuario.Columns[3].HeaderText = "Administrador";
 
             //Define tamanho da coluna
-            gridPrincipal.Columns[0].Width = 300;
-            gridPrincipal.Columns[1].Width = 200;
-            gridPrincipal.Columns[2].Width = 300;
+            gridConsultaUsuario.Columns[0].Width = 300;
+            gridConsultaUsuario.Columns[1].Width = 200;
+            gridConsultaUsuario.Columns[2].Width = 300;
+            gridConsultaUsuario.Columns[3].Width = 300;
 
         }
 

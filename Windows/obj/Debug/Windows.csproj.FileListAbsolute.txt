@@ -1768,7 +1768,6 @@ C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.XtraSpread
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.XtraTreeList.v15.1.xml
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.XtraVerticalGrid.v15.1.xml
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.XtraWizard.v15.1.xml
-C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\Microsoft.VisualBasic.PowerPacks.12.0.0.0.Fakes.xml
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.DataAccess.v15.1.xml
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.Sparkline.v15.1.Core.xml
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\bin\Debug\DevExpress.DataAccess.v15.1.UI.xml
@@ -1890,3 +1889,4 @@ C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\obj\Debug\Windows.Users_Constro
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\obj\Debug\Windows.csproj.GenerateResource.Cache
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\obj\Debug\Windows.exe.manifest
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\obj\Debug\Windows.application
+C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Windows\obj\Debug\Windows.exe.licenses

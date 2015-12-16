@@ -32,7 +32,7 @@
             this.label1 = new System.Windows.Forms.Label();
             this.txtBusca = new System.Windows.Forms.TextBox();
             this.miniToolStrip = new System.Windows.Forms.ToolStrip();
-            this.gridPrincipal = new System.Windows.Forms.DataGridView();
+            this.gridConsultaUsuario = new System.Windows.Forms.DataGridView();
             this.cboSetor = new DevExpress.XtraEditors.ComboBoxEdit();
             this.cboCargo = new DevExpress.XtraEditors.ComboBoxEdit();
             this.cboFiltro = new DevExpress.XtraEditors.ComboBoxEdit();
@@ -43,7 +43,7 @@
             this.tsbConsulta = new System.Windows.Forms.ToolStrip();
             this.tsbDeletar = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            ((System.ComponentModel.ISupportInitialize)(this.gridPrincipal)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridConsultaUsuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboSetor.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboCargo.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboFiltro.Properties)).BeginInit();
@@ -85,17 +85,16 @@
             this.miniToolStrip.Size = new System.Drawing.Size(815, 62);
             this.miniToolStrip.TabIndex = 47;
             // 
-            // gridPrincipal
+            // gridConsultaUsuario
             // 
-            this.gridPrincipal.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
-            this.gridPrincipal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.gridPrincipal.Location = new System.Drawing.Point(5, 303);
-            this.gridPrincipal.Name = "gridPrincipal";
-            this.gridPrincipal.Size = new System.Drawing.Size(1209, 199);
-            this.gridPrincipal.TabIndex = 50;
-            this.gridPrincipal.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridPrincipal_CellContentClick);
-            this.gridPrincipal.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.gridPrincipal_CellMouseDoubleClick);
-            this.gridPrincipal.DoubleClick += new System.EventHandler(this.gridPrincipal_DoubleClick);
+            this.gridConsultaUsuario.BackgroundColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.gridConsultaUsuario.Location = new System.Drawing.Point(3, 303);
+            this.gridConsultaUsuario.Name = "gridConsultaUsuario";
+            this.gridConsultaUsuario.Size = new System.Drawing.Size(1209, 170);
+            this.gridConsultaUsuario.TabIndex = 50;
+            this.gridConsultaUsuario.CellContentClick += new System.Windows.Forms.DataGridViewCellEventHandler(this.gridPrincipal_CellContentClick);
+            this.gridConsultaUsuario.CellMouseDoubleClick += new System.Windows.Forms.DataGridViewCellMouseEventHandler(this.gridPrincipal_CellMouseDoubleClick);
+            this.gridConsultaUsuario.DoubleClick += new System.EventHandler(this.gridPrincipal_DoubleClick);
             // 
             // cboSetor
             // 
@@ -247,11 +246,11 @@
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.btnVerTodos);
             this.Controls.Add(this.btnPesquisar);
-            this.Controls.Add(this.gridPrincipal);
+            this.Controls.Add(this.gridConsultaUsuario);
             this.Controls.Add(this.tsbConsulta);
             this.Name = "ucConsultaUsuario";
             this.Size = new System.Drawing.Size(1219, 512);
-            ((System.ComponentModel.ISupportInitialize)(this.gridPrincipal)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridConsultaUsuario)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboSetor.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboCargo.Properties)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboFiltro.Properties)).EndInit();
@@ -272,7 +271,6 @@
         internal System.Windows.Forms.ToolStrip tsbConsulta;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         internal System.Windows.Forms.ToolStripButton tsbDeletar;
-        private System.Windows.Forms.DataGridView gridPrincipal;
         private DevExpress.XtraEditors.ComboBoxEdit cboSetor;
         private DevExpress.XtraEditors.ComboBoxEdit cboCargo;
         private DevExpress.XtraEditors.ComboBoxEdit cboFiltro;
@@ -280,5 +278,6 @@
         private DevExpress.XtraEditors.SimpleButton btnVerTodos;
         internal System.Windows.Forms.PictureBox picBuscar;
         private System.Windows.Forms.GroupBox groupBox1;
+        public System.Windows.Forms.DataGridView gridConsultaUsuario;
     }
 }

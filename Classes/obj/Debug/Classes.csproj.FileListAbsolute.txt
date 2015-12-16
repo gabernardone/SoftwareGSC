@@ -857,6 +857,6 @@ C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\bin\Debug\de\DevExpress.Xpo.v15
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\bin\Debug\es\DevExpress.Xpo.v15.1.resources.dll
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\bin\Debug\ja\DevExpress.Xpo.v15.1.resources.dll
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\bin\Debug\ru\DevExpress.Xpo.v15.1.resources.dll
-C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\obj\Debug\Classes.dll
 C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\obj\Debug\Classes.pdb
+C:\Users\'-Gabriel.S\Desktop\SoftwareGSC\Classes\obj\Debug\Classes.csprojResolveAssemblyReference.cache
