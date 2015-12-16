@@ -72,11 +72,23 @@ namespace Windows
             switch (cboFiltro.SelectedIndex)
             {
                 case 0:
-                    gridConsultaUsuario.DataSource = conta.getContas("nome", txtBusca.Text).Tables[0];
+                    conta.getLikeConta("nome", txtBusca.Text, gridConsultaUsuario);
+                    configuraDataGridView();
+                    //gridConsultaUsuario.DataSource = conta.getContas("nome", txtBusca.Text).Tables[0];
                     break;
 
                 case 1:
-                    gridConsultaUsuario.DataSource = conta.getContas("usuario", txtBusca.Text).Tables[0];
+                    conta.getLikeConta(txtBusca.Text, "usuario", gridConsultaUsuario);
+                    //gridConsultaUsuario.DataSource = conta.getContas("usuario", txtBusca.Text).Tables[0];
+                    break;
+
+                case 2:
+                    conta.getLikeConta(txtBusca.Text, "setor", gridConsultaUsuario);
+                    break;
+                case 3:
+                    conta.getLikeConta(txtBusca.Text, "cargo", gridConsultaUsuario);
+                    break;
+                default:
                     break;
 
             }

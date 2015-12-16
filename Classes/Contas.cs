@@ -28,7 +28,7 @@ namespace Classes
 
         public string Email { get; set; }
 
-        
+
 
 
 
@@ -43,10 +43,10 @@ namespace Classes
             var query = "SELECT COUNT(*) FROM GSCUsuarios WHERE usuario = @usuario and senha= @senha";
 
             SqlCommand cmd = new SqlCommand(query, con);
-              
+
             cmd.Parameters.AddWithValue("@usuario", user);
             cmd.Parameters.AddWithValue("@senha", senha);
-                
+
             if (int.Parse(cmd.ExecuteScalar().ToString()) == 1)
             {
                 ret = true;
@@ -55,7 +55,7 @@ namespace Classes
             cmd.Dispose();
             con.Close();
             con.Dispose();
-               
+
             return ret;
         }
 
@@ -76,7 +76,8 @@ namespace Classes
 
         public object getContaAtributo()
         {
-            try {
+            try
+            {
                 SqlConnection con = BancoDados.Criarconexao();
                 SqlDataReader reader;
                 con.Open();
@@ -125,18 +126,18 @@ namespace Classes
 
         public bool addConta()
         {
-            
+
             try
             {
                 int adm;
                 if (Administrador == false)
-                    adm = 0;     
+                    adm = 0;
                 else
                     adm = 1;
 
                 var query = new StringBuilder();
                 query.Append("INSERT INTO GSCUsuarios (usuario,senha,administrador,email,cargo,setor,nome)");
-                query.Append("VALUES(@usuario, @senha, @administrador, @email, @cargo, @setor, @nome)"); 
+                query.Append("VALUES(@usuario, @senha, @administrador, @email, @cargo, @setor, @nome)");
 
                 SqlConnection con = BancoDados.Criarconexao();
 
@@ -191,9 +192,13 @@ namespace Classes
 
         public void getAllUsuarios(DataGridView dataGrid)
         {
-            try {
+            try
+            {
                 string query = "SELECT nome,usuario,email,administrador FROM GSCUsuarios";
                 SqlConnection con = BancoDados.Criarconexao();
+
+                con.Open();
+
                 SqlDataAdapter dataAdapter = new SqlDataAdapter(query, con);
 
                 SqlCommandBuilder commandBuilder = new SqlCommandBuilder(dataAdapter);
@@ -206,11 +211,38 @@ namespace Classes
                 con.Close();
                 con.Dispose();
 
-            }catch(SqlException ex)
+            }
+            catch (SqlException ex)
             {
                 MessageBox.Show(ex.Message);
             }
 
+        }
+
+        public void getLikeConta(string parametroWhere, string parametroCondicao, DataGridView dataGrid)
+        {
+
+            var query = string.Format("SELECT nome,usuario,email,administrador FROM GSCUsuarios WHERE {0} = @parametroCondicao", parametroWhere);
+            //var query = "SELECT  nome,usuario,email,administrador FROM GSCUsuarios WHERE @parametroWhere LIKE '%@parametroCondicao%'";
+
+            SqlConnection con = BancoDados.Criarconexao();
+
+            con.Open();
+
+            SqlDataAdapter dataAdapter = new SqlDataAdapter(query, con);
+            //dataAdapter.SelectCommand.Parameters.AddWithValue("parametroWhere", parametroWhere);
+            dataAdapter.SelectCommand.Parameters.AddWithValue("parametroCondicao", parametroCondicao);
+
+            SqlCommandBuilder commandBuilder = new SqlCommandBuilder(dataAdapter);
+
+            DataSet ds = new DataSet();
+            dataAdapter.Fill(ds);
+            dataGrid.ReadOnly = true;
+            dataGrid.DataSource = ds.Tables[0];
+
+            commandBuilder.Dispose();
+            con.Close();
+            con.Dispose();
         }
 
 
