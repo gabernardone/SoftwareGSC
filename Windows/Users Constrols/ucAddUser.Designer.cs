@@ -50,11 +50,11 @@
             this.groupBox2 = new System.Windows.Forms.GroupBox();
             this.chkAdm = new DevExpress.XtraEditors.ToggleSwitch();
             this.lblAdm = new System.Windows.Forms.Label();
-            this.toolTip1 = new System.Windows.Forms.ToolTip(this.components);
+            this.tltAddUser = new System.Windows.Forms.ToolTip(this.components);
             this.tsbCadastrar = new System.Windows.Forms.ToolStrip();
             this.toolStripButton1 = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
-            this.splashScreenManager1 = new DevExpress.XtraSplashScreen.SplashScreenManager(this, typeof(global::Windows.Users_Constrols.ucCarregando), true, true, DevExpress.XtraSplashScreen.ParentType.UserControl, true);
+            this.splashScreenManager1 = new DevExpress.XtraSplashScreen.SplashScreenManager(this, typeof(global::Windows.Users_Constrols.ucCarregando), true, true, typeof(System.Windows.Forms.UserControl), true);
             this.groupBox1.SuspendLayout();
             this.groupBox2.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.chkAdm.Properties)).BeginInit();
@@ -281,9 +281,9 @@
             this.lblAdm.TabIndex = 10;
             this.lblAdm.Text = "Administrador:";
             // 
-            // toolTip1
+            // tltAddUser
             // 
-            this.toolTip1.IsBalloon = true;
+            this.tltAddUser.IsBalloon = true;
             // 
             // tsbCadastrar
             // 
@@ -365,7 +365,7 @@
         private System.Windows.Forms.Label lblCargo;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.GroupBox groupBox2;
-        private System.Windows.Forms.ToolTip toolTip1;
+        private System.Windows.Forms.ToolTip tltAddUser;
         internal System.Windows.Forms.ToolStrip tsbCadastrar;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
         private System.Windows.Forms.ToolStripButton toolStripButton1;

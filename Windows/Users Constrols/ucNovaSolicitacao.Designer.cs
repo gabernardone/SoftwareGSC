@@ -166,7 +166,7 @@
             this.lblErro_data.AutoSize = true;
             this.lblErro_data.Font = new System.Drawing.Font("Calibri Light", 9.75F);
             this.lblErro_data.ForeColor = System.Drawing.Color.Red;
-            this.lblErro_data.Location = new System.Drawing.Point(97, 37);
+            this.lblErro_data.Location = new System.Drawing.Point(97, 36);
             this.lblErro_data.Name = "lblErro_data";
             this.lblErro_data.Size = new System.Drawing.Size(39, 15);
             this.lblErro_data.TabIndex = 24;

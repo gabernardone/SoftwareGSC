@@ -221,30 +221,25 @@ namespace Classes
 
         public void getLikeConta(string parametroWhere, string parametroCondicao, DataGridView dataGrid)
         {
-
-            var query = string.Format("SELECT nome,usuario,email,administrador FROM GSCUsuarios WHERE {0} = @parametroCondicao", parametroWhere);
-            //var query = "SELECT  nome,usuario,email,administrador FROM GSCUsuarios WHERE @parametroWhere LIKE '%@parametroCondicao%'";
+        
+            var query = string.Format("SELECT nome,usuario,email,administrador FROM GSCUsuarios WHERE {0} LIKE @parametroCondicao", parametroWhere);
 
             SqlConnection con = BancoDados.Criarconexao();
 
             con.Open();
 
             SqlDataAdapter dataAdapter = new SqlDataAdapter(query, con);
-            //dataAdapter.SelectCommand.Parameters.AddWithValue("parametroWhere", parametroWhere);
-            dataAdapter.SelectCommand.Parameters.AddWithValue("parametroCondicao", parametroCondicao);
+            dataAdapter.SelectCommand.Parameters.AddWithValue("parametroCondicao", parametroCondicao + "%");
 
-            SqlCommandBuilder commandBuilder = new SqlCommandBuilder(dataAdapter);
-
-            DataSet ds = new DataSet();
+            DataTable ds = new DataTable();
             dataAdapter.Fill(ds);
             dataGrid.ReadOnly = true;
-            dataGrid.DataSource = ds.Tables[0];
+            dataGrid.DataSource = ds;
 
-            commandBuilder.Dispose();
+            dataAdapter.Dispose();
             con.Close();
             con.Dispose();
         }
-
 
 
         public System.Data.DataSet getContas(string atributo, string conteudo)

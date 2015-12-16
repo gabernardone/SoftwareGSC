@@ -18,7 +18,6 @@ namespace Windows
         public ucConsultaUsuario()
         {
             InitializeComponent();
-
         }
 
         private void btnVerTodos_Click(object sender, EventArgs e)
@@ -37,16 +36,16 @@ namespace Windows
 
         private void tsbAdicionar_Click(object sender, EventArgs e)
         {
-           
+
 
         }
 
         private void tsbDeletar_Click(object sender, EventArgs e)
         {
 
-                DialogResult dr = MessageBox.Show( string.Format("Tem certeza que deseja deletar ? {0}",
-                (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["nome"].Value),
-                "Atenção", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
+            DialogResult dr = MessageBox.Show(string.Format("Tem certeza que deseja deletar ? {0}",
+            (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["nome"].Value),
+            "Atenção", MessageBoxButtons.YesNo, MessageBoxIcon.Warning);
 
             if (dr.ToString() == "Yes")
             {
@@ -58,7 +57,7 @@ namespace Windows
 
                 conta.delConta(userDeletado);
 
-                MessageBox.Show(string.Format("O Usuário {0} foi removido!", nomeDeletado),"Confirmação de Exclusão");
+                MessageBox.Show(string.Format("O Usuário {0} foi removido!", nomeDeletado), "Confirmação de Exclusão");
 
                 conta.getAllUsuarios(gridConsultaUsuario);
                 gridConsultaUsuario.Refresh();
@@ -74,19 +73,20 @@ namespace Windows
                 case 0:
                     conta.getLikeConta("nome", txtBusca.Text, gridConsultaUsuario);
                     configuraDataGridView();
-                    //gridConsultaUsuario.DataSource = conta.getContas("nome", txtBusca.Text).Tables[0];
                     break;
 
                 case 1:
-                    conta.getLikeConta(txtBusca.Text, "usuario", gridConsultaUsuario);
-                    //gridConsultaUsuario.DataSource = conta.getContas("usuario", txtBusca.Text).Tables[0];
+                    conta.getLikeConta("usuario", txtBusca.Text, gridConsultaUsuario);
+                    configuraDataGridView();
                     break;
 
                 case 2:
-                    conta.getLikeConta(txtBusca.Text, "setor", gridConsultaUsuario);
+                    conta.getLikeConta("cargo", cboCargo.SelectedItem.ToString(), gridConsultaUsuario);
+                    configuraDataGridView();
                     break;
                 case 3:
-                    conta.getLikeConta(txtBusca.Text, "cargo", gridConsultaUsuario);
+                    conta.getLikeConta("setor", cboSetor.SelectedItem.ToString(), gridConsultaUsuario);
+                    configuraDataGridView();
                     break;
                 default:
                     break;
@@ -97,6 +97,16 @@ namespace Windows
 
         private void cboFiltro_SelectedIndexChanged(object sender, EventArgs e)
         {
+
+            if (cboFiltro.SelectedIndex < 0)
+            {
+                txtBusca.Enabled = false;
+            }
+            else
+            {
+                txtBusca.Enabled = true;
+            }
+
             switch (cboFiltro.SelectedIndex)
             {
                 case 2:
@@ -143,7 +153,7 @@ namespace Windows
         {
 
 
-            
+
         }
 
         private void gridPrincipal_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
@@ -153,11 +163,16 @@ namespace Windows
             tabsystem.tabControl_Receptor = tela.tabPrincipal;
             //tabsystem.addTab(editarUsuario);
             tabsystem.subIndexTab(editarUsuario);
-            
-            
+
+
         }
 
         private void gridPrincipal_CellContentClick(object sender, DataGridViewCellEventArgs e)
+        {
+
+        }
+
+        private void txtBusca_EditValueChanged(object sender, EventArgs e)
         {
 
         }

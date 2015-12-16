@@ -28,9 +28,9 @@
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(ucConsultaUsuario));
             this.label1 = new System.Windows.Forms.Label();
-            this.txtBusca = new System.Windows.Forms.TextBox();
             this.miniToolStrip = new System.Windows.Forms.ToolStrip();
             this.gridConsultaUsuario = new System.Windows.Forms.DataGridView();
             this.cboSetor = new DevExpress.XtraEditors.ComboBoxEdit();
@@ -40,15 +40,18 @@
             this.btnVerTodos = new DevExpress.XtraEditors.SimpleButton();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.picBuscar = new System.Windows.Forms.PictureBox();
+            this.txtBusca = new DevExpress.XtraEditors.TextEdit();
             this.tsbConsulta = new System.Windows.Forms.ToolStrip();
             this.tsbDeletar = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
+            this.ttpPesquisa = new System.Windows.Forms.ToolTip(this.components);
             ((System.ComponentModel.ISupportInitialize)(this.gridConsultaUsuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboSetor.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboCargo.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboFiltro.Properties)).BeginInit();
             this.groupBox1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBuscar)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtBusca.Properties)).BeginInit();
             this.tsbConsulta.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -61,16 +64,6 @@
             this.label1.Size = new System.Drawing.Size(64, 17);
             this.label1.TabIndex = 6;
             this.label1.Text = "Filtrar por:";
-            // 
-            // txtBusca
-            // 
-            this.txtBusca.AutoCompleteMode = System.Windows.Forms.AutoCompleteMode.SuggestAppend;
-            this.txtBusca.AutoCompleteSource = System.Windows.Forms.AutoCompleteSource.CustomSource;
-            this.txtBusca.BorderStyle = System.Windows.Forms.BorderStyle.FixedSingle;
-            this.txtBusca.Location = new System.Drawing.Point(141, 57);
-            this.txtBusca.Name = "txtBusca";
-            this.txtBusca.Size = new System.Drawing.Size(238, 20);
-            this.txtBusca.TabIndex = 8;
             // 
             // miniToolStrip
             // 
@@ -173,11 +166,11 @@
             // groupBox1
             // 
             this.groupBox1.Controls.Add(this.picBuscar);
+            this.groupBox1.Controls.Add(this.txtBusca);
             this.groupBox1.Controls.Add(this.label1);
+            this.groupBox1.Controls.Add(this.cboFiltro);
             this.groupBox1.Controls.Add(this.cboSetor);
             this.groupBox1.Controls.Add(this.cboCargo);
-            this.groupBox1.Controls.Add(this.cboFiltro);
-            this.groupBox1.Controls.Add(this.txtBusca);
             this.groupBox1.Location = new System.Drawing.Point(385, 167);
             this.groupBox1.Name = "groupBox1";
             this.groupBox1.Size = new System.Drawing.Size(413, 88);
@@ -190,12 +183,27 @@
             this.picBuscar.BackColor = System.Drawing.Color.Transparent;
             this.picBuscar.Cursor = System.Windows.Forms.Cursors.Hand;
             this.picBuscar.Image = global::Windows.Properties.Resources.search_20;
-            this.picBuscar.Location = new System.Drawing.Point(360, 59);
+            this.picBuscar.Location = new System.Drawing.Point(359, 59);
             this.picBuscar.Name = "picBuscar";
             this.picBuscar.Size = new System.Drawing.Size(17, 16);
             this.picBuscar.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
             this.picBuscar.TabIndex = 42;
             this.picBuscar.TabStop = false;
+            // 
+            // txtBusca
+            // 
+            this.txtBusca.Enabled = false;
+            this.txtBusca.Location = new System.Drawing.Point(141, 57);
+            this.txtBusca.Name = "txtBusca";
+            this.txtBusca.Properties.LookAndFeel.SkinName = "Visual Studio 2013 Light";
+            this.txtBusca.Properties.LookAndFeel.UseDefaultLookAndFeel = false;
+            this.txtBusca.Size = new System.Drawing.Size(238, 20);
+            this.txtBusca.TabIndex = 56;
+            this.txtBusca.ToolTip = "Selecione o tipo de filtro para pesquisa.";
+            this.ttpPesquisa.SetToolTip(this.txtBusca, "Selecione o tipo de filtro para pesquisa.");
+            this.txtBusca.ToolTipIconType = DevExpress.Utils.ToolTipIconType.Exclamation;
+            this.txtBusca.ToolTipTitle = "Atenção";
+            this.txtBusca.EditValueChanged += new System.EventHandler(this.txtBusca_EditValueChanged);
             // 
             // tsbConsulta
             // 
@@ -237,6 +245,13 @@
             this.toolStripSeparator1.Name = "toolStripSeparator1";
             this.toolStripSeparator1.Size = new System.Drawing.Size(6, 62);
             // 
+            // ttpPesquisa
+            // 
+            this.ttpPesquisa.AutomaticDelay = 200;
+            this.ttpPesquisa.IsBalloon = true;
+            this.ttpPesquisa.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Warning;
+            this.ttpPesquisa.ToolTipTitle = "Atenção";
+            // 
             // ucConsultaUsuario
             // 
             this.AccessibleName = "Consulta de Usuário";
@@ -257,6 +272,7 @@
             this.groupBox1.ResumeLayout(false);
             this.groupBox1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)(this.picBuscar)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txtBusca.Properties)).EndInit();
             this.tsbConsulta.ResumeLayout(false);
             this.tsbConsulta.PerformLayout();
             this.ResumeLayout(false);
@@ -266,7 +282,6 @@
         #endregion
 
         private System.Windows.Forms.Label label1;
-        private System.Windows.Forms.TextBox txtBusca;
         private System.Windows.Forms.ToolStrip miniToolStrip;
         internal System.Windows.Forms.ToolStrip tsbConsulta;
         private System.Windows.Forms.ToolStripSeparator toolStripSeparator1;
@@ -279,5 +294,7 @@
         internal System.Windows.Forms.PictureBox picBuscar;
         private System.Windows.Forms.GroupBox groupBox1;
         public System.Windows.Forms.DataGridView gridConsultaUsuario;
+        private DevExpress.XtraEditors.TextEdit txtBusca;
+        private System.Windows.Forms.ToolTip ttpPesquisa;
     }
 }
