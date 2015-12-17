@@ -1711,14 +1711,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows.exe" size="1060352">
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Windows.exe" size="1060864">
       <assemblyIdentity name="Windows" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jrnsOwyvdRdC/YdzQNjoypurOAAKyL17dO+LeSwgoME=</dsig:DigestValue>
+        <dsig:DigestValue>y7JwuQS0yaGg3V4p9W2vKRgR7Zt96AzVStzG39oo3eI=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

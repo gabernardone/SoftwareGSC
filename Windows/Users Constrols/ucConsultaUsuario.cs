@@ -14,24 +14,17 @@ namespace Windows
     {
 
         TabSystem.System tabsystem = new TabSystem.System(); //Instanciando o sistema de abas
-
+        Classes.Contas conta = new Classes.Contas();
         public ucConsultaUsuario()
         {
             InitializeComponent();
         }
 
         private void btnVerTodos_Click(object sender, EventArgs e)
-        {
-            Classes.Contas conta = new Classes.Contas();
+        {            
             cboFiltro.SelectedIndex = -1;
-
-            //gridConsultaUsuario.DataSource = conta.listContasReduzido().Tables[0];
-            //gridConsultaUsuario.ReadOnly = true;
-
             conta.getAllUsuarios(gridConsultaUsuario);
             configuraDataGridView();
-
-
         }
 
         private void tsbAdicionar_Click(object sender, EventArgs e)
@@ -50,8 +43,6 @@ namespace Windows
             if (dr.ToString() == "Yes")
             {
 
-                Classes.Contas conta = new Classes.Contas();
-
                 string userDeletado = (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["usuario"].Value;
                 string nomeDeletado = (string)gridConsultaUsuario.Rows[gridConsultaUsuario.CurrentCell.RowIndex].Cells["nome"].Value;
 
@@ -67,7 +58,6 @@ namespace Windows
 
         private void btnPesquisar_Click(object sender, EventArgs e)
         {
-            Classes.Contas conta = new Classes.Contas();
             switch (cboFiltro.SelectedIndex)
             {
                 case 0:
@@ -90,7 +80,6 @@ namespace Windows
                     break;
                 default:
                     break;
-
             }
 
         }
@@ -159,12 +148,7 @@ namespace Windows
         private void gridPrincipal_CellMouseDoubleClick(object sender, DataGridViewCellMouseEventArgs e)
         {
             TelaPrincipal tela = new TelaPrincipal();
-            ucEditar_Usuario editarUsuario = new ucEditar_Usuario();
-            tabsystem.tabControl_Receptor = tela.tabPrincipal;
-            //tabsystem.addTab(editarUsuario);
-            tabsystem.subIndexTab(editarUsuario);
-
-
+   
         }
 
         private void gridPrincipal_CellContentClick(object sender, DataGridViewCellEventArgs e)
@@ -175,6 +159,12 @@ namespace Windows
         private void txtBusca_EditValueChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void tsbEditarUsuario_Click(object sender, EventArgs e)
+        {
+            ucEditar_Usuario editarUsuario = new ucEditar_Usuario();
+            tabsystem.addTab(editarUsuario);
         }
     }
 }

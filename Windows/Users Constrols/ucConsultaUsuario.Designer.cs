@@ -45,6 +45,7 @@
             this.tsbDeletar = new System.Windows.Forms.ToolStripButton();
             this.toolStripSeparator1 = new System.Windows.Forms.ToolStripSeparator();
             this.ttpPesquisa = new System.Windows.Forms.ToolTip(this.components);
+            this.tsbEditarUsuario = new System.Windows.Forms.ToolStripButton();
             ((System.ComponentModel.ISupportInitialize)(this.gridConsultaUsuario)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboSetor.Properties)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.cboCargo.Properties)).BeginInit();
@@ -219,7 +220,8 @@
             this.tsbConsulta.GripStyle = System.Windows.Forms.ToolStripGripStyle.Hidden;
             this.tsbConsulta.Items.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.tsbDeletar,
-            this.toolStripSeparator1});
+            this.toolStripSeparator1,
+            this.tsbEditarUsuario});
             this.tsbConsulta.LayoutStyle = System.Windows.Forms.ToolStripLayoutStyle.HorizontalStackWithOverflow;
             this.tsbConsulta.Location = new System.Drawing.Point(6, 7);
             this.tsbConsulta.Name = "tsbConsulta";
@@ -251,6 +253,17 @@
             this.ttpPesquisa.IsBalloon = true;
             this.ttpPesquisa.ToolTipIcon = System.Windows.Forms.ToolTipIcon.Warning;
             this.ttpPesquisa.ToolTipTitle = "Atenção";
+            // 
+            // tsbEditarUsuario
+            // 
+            this.tsbEditarUsuario.Image = global::Windows.Properties.Resources.Edit_32x32;
+            this.tsbEditarUsuario.ImageScaling = System.Windows.Forms.ToolStripItemImageScaling.None;
+            this.tsbEditarUsuario.ImageTransparentColor = System.Drawing.Color.Magenta;
+            this.tsbEditarUsuario.Name = "tsbEditarUsuario";
+            this.tsbEditarUsuario.Size = new System.Drawing.Size(87, 59);
+            this.tsbEditarUsuario.Text = "Editar Usuário";
+            this.tsbEditarUsuario.TextImageRelation = System.Windows.Forms.TextImageRelation.ImageAboveText;
+            this.tsbEditarUsuario.Click += new System.EventHandler(this.tsbEditarUsuario_Click);
             // 
             // ucConsultaUsuario
             // 
@@ -296,5 +309,6 @@
         public System.Windows.Forms.DataGridView gridConsultaUsuario;
         private DevExpress.XtraEditors.TextEdit txtBusca;
         private System.Windows.Forms.ToolTip ttpPesquisa;
+        private System.Windows.Forms.ToolStripButton tsbEditarUsuario;
     }
 }

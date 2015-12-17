@@ -110,7 +110,7 @@ namespace Windows
             this.Visible=false;
             frmLogin deslogar = new frmLogin();
             deslogar.ShowDialog();
-            
+                     
         }
 
         private void calculadoraToolStripMenuItem_Click(object sender, EventArgs e)
@@ -122,7 +122,6 @@ namespace Windows
         {
             ucConsultaUsuario consulta = new ucConsultaUsuario();
             tabsystem.addTab(consulta);
-
         }
    
 
@@ -137,7 +136,7 @@ namespace Windows
         {
             ucAnaliseSolicitacao analise = new ucAnaliseSolicitacao();
             tabsystem.addTab(analise);
-
+            
         }
 
         private void toolStripButton4_Click_1(object sender, EventArgs e)
